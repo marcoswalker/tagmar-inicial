@@ -1,0 +1,36 @@
+{
+  "name": "tagmar-inicial",
+  "title": "Tagmar Inicial",
+  "description": null,
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "dependencies": [
+    {
+      "name": "pdfoundry",
+      "manifest": "https://raw.githubusercontent.com/Djphoenix719/PDFoundry/master/module.json"
+    }
+  ],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "https://github.com/marcoswalker/tagmar-inicial",
+  "manifest": "https://raw.githubusercontent.com/marcoswalker/tagmar-inicial/master/world.json",
+  "download": "https://codeload.github.com/marcoswalker/tagmar-inicial/zip/master",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "",
+  "system": "tagmar",
+  "coreVersion": "0.7.9",
+  "systemVersion": "1.1.1",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "availability": 0,
+  "unavailable": false
+}
